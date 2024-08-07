@@ -1,0 +1,5 @@
+com\petwellnes\petwellnes_backend\service\PetServiceImplTest.class
+com\petwellnes\petwellnes_backend\PetwellnesBackendApplicationTests.class
+com\petwellnes\petwellnes_backend\service\VetVisitServiceImplTest.class
+com\petwellnes\petwellnes_backend\service\PostServiceImplTest.class
+com\petwellnes\petwellnes_backend\service\UserServiceImplTest.class
